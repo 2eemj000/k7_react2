@@ -4,7 +4,7 @@ import './App.css';
 import Login from './01/Login';
 import AirIndoor from './01/AirIndoor';
 import { RecoilRoot } from 'recoil';
-import Nav from './01/Nav';
+import Nav from './01/Nav'; // App.js 파일에 있을 내용 나눠넣었음
 
 function App() {
 

@@ -1,5 +1,5 @@
+// App.js 파일에 있을 내용 나눠넣었음
 import { Link } from "react-router-dom"
-
 import { useRecoilState } from 'recoil'
 import { AtomN } from './StAtom'
 export default function Nav() {
