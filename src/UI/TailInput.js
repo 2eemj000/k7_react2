@@ -1,4 +1,4 @@
-export default function TailInput({id, type, inRef }) {
+export default function TailInput({id, type, inRef}) {
     return (
       <div>
         <input type={type} id= {id}
